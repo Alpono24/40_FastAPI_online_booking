@@ -2,6 +2,7 @@ __pycache__/
 *.py[cod]
 *.env
 .venv/
+venv/
 .idea/
 /eval "$(ssh-agent -s)".pub
 /eval "$(ssh-agent -s)"
